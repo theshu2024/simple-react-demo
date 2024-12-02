@@ -1,0 +1,1 @@
+一个简单的react + ts + webpack5项目，已配置个人常用的eslint
